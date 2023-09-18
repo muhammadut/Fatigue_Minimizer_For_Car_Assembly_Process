@@ -1,5 +1,6 @@
 # Minimizing Worker Fatigue through Optimized Job Assignments: A Practical Approach
-Description
+
+# Description
 An advanced optimization framework for intelligently scheduling work rotations to minimize worker fatigue. This project utilizes combinatorial optimization techniques and fatigue modeling to optimize work rotations in industrial settings.
 
 
